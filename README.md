@@ -3,7 +3,7 @@
 </p>
 
 
-## BISON AI Inference Engine (GAUR)
+## GAUR (BISON AI Inference Engine)
 
 산업용 머신비전 시스템을 위해 설계된 고성능 C++ 기반 AI 추론 엔진입니다.
 
